@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 
 body {
-  background: #fff;
+  background: #efd3d3;
   color: #444;
   font-family: "Open Sans", sans-serif;
 }
@@ -475,14 +475,14 @@ h6 {
 --------------------------------*/
 
 .section-bg {
-  background: #ecf5ff;
+  background: #efd3d3;
 }
 
 /* About Us Section
 --------------------------------*/
 
 #about {
-  background: #fff;
+  background: #efd3d3;
   padding: 60px 0;
 }
 
@@ -641,7 +641,7 @@ h6 {
 
 #why-us {
   padding: 60px 0;
-  background: #004a99;
+  background: url("../img/intro-bg.png") center bottom no-repeat;
 }
 
 #why-us .section-header h3,
@@ -650,8 +650,8 @@ h6 {
 }
 
 #why-us .card {
-  background: #00458f;
-  border-color: #00458f;
+  background: #852435;
+  border-color: #852435;
   border-radius: 10px;
   margin: 0 15px;
   padding: 15px 0;
@@ -924,7 +924,7 @@ h6 {
 --------------------------------*/
 
 #team {
-  background: #fff;
+  background: #efd3d3;
   padding: 60px 0;
   box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
 }
@@ -1185,14 +1185,14 @@ h6 {
 --------------------------------------------------------------*/
 
 #footer {
-  background: #00428a;
+  background: #7f1f3d;
   padding: 0 0 30px 0;
   color: #eee;
   font-size: 14px;
 }
 
 #footer .footer-top {
-  background: #004a99;
+  background: #efd3d3;
   padding: 60px 0 30px 0;
 }
 
