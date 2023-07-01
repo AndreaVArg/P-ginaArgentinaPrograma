@@ -646,7 +646,7 @@ h6 {
 
 #why-us .section-header h3,
 #why-us .section-header p {
-  color: #fff;
+  color: #6E2F93;
 }
 
 #why-us .card {
@@ -662,8 +662,8 @@ h6 {
 }
 
 #why-us .card:hover {
-  background: #003b7a;
-  border-color: #003b7a;
+  background: #6E2F93;
+  border-color: #6E2F93;
 }
 
 #why-us .card i {
