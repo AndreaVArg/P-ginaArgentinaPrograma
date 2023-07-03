@@ -50,7 +50,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #007bff;
+  background: #6E2F93;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -538,7 +538,7 @@ h6 {
   flex-direction: column;
   text-align: center;
   border-radius: 50%;
-  border: 2px solid #007bff;
+  border: 2px solid #6E2F93;
   transition: all 0.3s ease-in-out;
 }
 
@@ -1167,7 +1167,7 @@ h6 {
 }
 
 #contact .form button[type="submit"] {
-  background: #007bff;
+  background: #6E2F93;
   border: 0;
   border-radius: 20px;
   padding: 8px 30px;
@@ -1294,7 +1294,7 @@ h6 {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"] {
-  background: #007bff;
+  background: #6E2F93;
   border: 0;
   width: 35%;
   padding: 6px 0;
