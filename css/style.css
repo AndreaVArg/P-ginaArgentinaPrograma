@@ -12,7 +12,7 @@
 body {
   background: #E9E7E8;
   color: #444;
-  font-family: "IBM PLEX MONO", sans-serif;
+  font-family: "Encode Sans SemiBold 600", sans-serif;
 }
 
 a {
@@ -39,7 +39,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Encode Sans", sans-serif;
+  font-family: "Encode Sans ExtraBold 800", sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;

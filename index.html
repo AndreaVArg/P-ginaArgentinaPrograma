@@ -14,6 +14,10 @@
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@600;800&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+
 
   <!-- Bootstrap CSS File -->
   <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -673,7 +677,7 @@
             <div class="row">
               <div class="col-md-5 info">
                 <i class="ion-ios-location-outline"></i>
-                <p>Av. Libertad 5470, Corrientes, Corrientes, 3400</p>
+                <p>Av. Libertad 5470, Corrientes, Corrientes</p>
               </div>
               <div class="col-md-4 info">
                 <i class="ion-ios-email-outline"></i>
@@ -691,23 +695,23 @@
               <form action="" method="post" role="form" class="contactForm">
                 <div class="form-row">
                   <div class="form-group col-lg-6">
-                    <input type="text" name="name" class="form-control" id="name" placeholder="Ingrese su nombre"  data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                    <input type="text" name="name" class="form-control" style="text-align: center" id="name" placeholder="Nombre"  data-rule="minlen:4" data-msg="Por favor ingrese al menos 4 caracteres." />
                     <div class="validation"></div>
                   </div>
                   <div class="form-group col-lg-6">
-                    <input type="email" class="form-control" name="email" id="email" placeholder="Ingrese su email" data-rule="email" data-msg="Please enter a valid email" />
+                    <input type="email" class="form-control" style="text-align: center" name="email" id="email" text-align="center" placeholder="e-mail" data-rule="email" data-msg="Por favor ingrese un email válido." />
                     <div class="validation"></div>
                   </div>
                 </div>
                 <div class="form-group">
-                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Asunto" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                  <input type="text" class="form-control" "subject" id="subject" placeholder="    Asunto" data-rule="minlen:4" data-msg="Por favor ingrese al menos 8 caracteres." />
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
-                  <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Por favor escriba algo" placeholder="Mensaje"></textarea>
+                  <textarea class="form-control" name="message" style="text-align: center" rows="5" data-rule="required" data-msg="Por favor escriba algo." placeholder="mensaje"></textarea>
                   <div class="validation"></div>
                 </div>
-                <div class="text-center"><button type="submit" title="Send Message">Enviar mensaje</button></div>
+                <div class="text-center"><button type="submit" title="Send Message">Enviar</button></div>
               </form>
             </div>
           </div>
